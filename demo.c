@@ -3,5 +3,5 @@
 
 void main()
 {
-    system("pause");
+    system("pause"); // add a comment
 }
